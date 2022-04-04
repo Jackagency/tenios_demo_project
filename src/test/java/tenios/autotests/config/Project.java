@@ -1,4 +1,4 @@
-package cloud.autotests.config;
+package tenios.autotests.config;
 
 import org.aeonbits.owner.ConfigFactory;
 

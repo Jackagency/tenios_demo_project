@@ -1,4 +1,4 @@
-package cloud.autotests.helpers;
+package tenios.autotests.helpers;
 
 import io.qameta.allure.restassured.AllureRestAssured;
 

@@ -1,9 +1,9 @@
-package cloud.autotests.tests;
+package tenios.autotests.tests;
 
-import cloud.autotests.config.Project;
-import cloud.autotests.helpers.AllureAttachments;
-import cloud.autotests.helpers.DriverSettings;
-import cloud.autotests.helpers.DriverUtils;
+import tenios.autotests.config.Project;
+import tenios.autotests.helpers.AllureAttachments;
+import tenios.autotests.helpers.DriverSettings;
+import tenios.autotests.helpers.DriverUtils;
 import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.junit5.AllureJunit5;
